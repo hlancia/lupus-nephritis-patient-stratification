@@ -1,0 +1,15 @@
+# Data
+
+The analyses in this repository are based on publicly available datasets.
+
+## Human single-cell RNA-seq
+
+AMP Lupus Nephritis Consortium (ImmPort SDY997)
+
+Processed Seurat objects are not included in this repository because of file size limitations.
+
+To reproduce the analysis:
+
+1. Download SDY997 from ImmPort.
+2. Download the CEL-seq expression matrix and metadata.
+3. Build the Seurat object following Script 01.
