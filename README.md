@@ -261,7 +261,7 @@ All intermediate results and publication-quality figures are generated automatic
 
 # Related Projects
 
-This repository is part of a larger AI-driven computational immunology portfolio:
+This repository is part of the **[AI Computational Immunology Portfolio](https://github.com/hlancia/AI-Computational-Immunology-Portfolio/tree/main)**.
 
 - Lupus Nephritis Target Discovery Atlas
 - Cell–Cell Communication Analysis
